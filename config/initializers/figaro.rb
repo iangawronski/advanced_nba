@@ -1,1 +1,1 @@
-Figaro.require_keys
+Figaro.require_keys("XML_STATS_KEY")

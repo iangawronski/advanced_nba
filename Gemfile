@@ -27,6 +27,7 @@ gem 'devise'
 # gem for env variables
 gem 'figaro'
 
+gem 'httparty'
 # gem 'sports_data_api'
 
 # Use ActiveModel has_secure_password
